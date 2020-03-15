@@ -1,0 +1,22 @@
+{
+  "name": "vispa-scrap",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-scrap",
+    "puppeteer",
+    "scrap"
+  ],
+  "author": "amir@koulivand.ir",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.1.0",
+    "open": "^7.0.3",
+    "puppeteer": "^2.1.1"
+  }
+}
